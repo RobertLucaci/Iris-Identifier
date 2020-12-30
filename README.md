@@ -12,6 +12,9 @@ You could find here a Machine Learning model that can detect types of the Iris P
 
 # How can you run it?
 You should simply install **Jupyter Notebook**.
+
 Copy the **IrisIdentifier.ipynb** file into your local computer.
+
 Open it with Jupyter Notebook and enter some numbers in Line [7], variable “**sample**” based on each parameter of the dataset (Petal Length, Petal Width, Sepal Length, Sepal width) to predict which type of Iris is.
+
 Note that the model has 97.77% prediction accuracy.
